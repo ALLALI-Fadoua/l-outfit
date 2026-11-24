@@ -1,0 +1,8 @@
+:root{
+  --burgundy:#6E1F32; --burgundy-dark:#4A1322; --cream:#F7F1E8; --beige:#E8DCCF;
+  --gold:#C7A56A; --text:#1D1A19; --muted:#6f6560; --white:#fff; --line:#e4d9cc;
+  --font-serif:'Cormorant Garamond','Playfair Display',Georgia,serif;
+  --font-sans:'Jost','Inter',system-ui,sans-serif;
+  --radius:6px; --shadow:0 6px 24px rgba(74,19,34,.08);
+  --container:1280px;
+}
